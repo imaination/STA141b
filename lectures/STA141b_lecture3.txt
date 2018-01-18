@@ -1,0 +1,36 @@
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jan 12 16:06:29 2018
+
+@author: rurikoimai
+"""
+
+echo $PATH
+
+find python path so that anaconda comes first
+
+Google how to edit path environment variables
+
+#git hub versioning system
+git status
+git add <file>
+git commit -m "message" #this is all locally on my machine
+
+git push #goes to github server
+git pull
+
+git log #shows a history of commits
+
+#commit before you pull!
+
+#after pulling
+git diff will show the differences between files
+
+#function 
+def function():
+    """docstring""""
+    pass
+    
+    
+    

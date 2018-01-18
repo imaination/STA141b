@@ -1,0 +1,30 @@
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 10 16:11:52 2018
+
+@author: rurikoimai
+"""
+
+#script running in the background
+python script.py &
+
+#to see what's running
+ps
+
+#to kill a file
+kill PIDnumber
+
+#ipython magic commands
+#preceded by %
+%timeit [i**2for i in range(10)]
+
+%%timeit #can time the entire block of code
+
+#can run unix command  within ipython
+!head file_name
+
+#statistical thinking (interpretation of data)
+#Exposure variable
+#risk is greater for those who drive more (for car insurance)
+
